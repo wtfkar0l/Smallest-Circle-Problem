@@ -8,7 +8,7 @@ Este projeto implementa o algoritmo de Welzl para encontrar o círculo mínimo q
 
 ## Funcionalidades
 
-- **Cálculo do Círculo Mínimo**: Encontra o menor círculo que contém um conjunto de pontos em ($\mathbb{R}^2$).
+- **Cálculo do Círculo Mínimo**: Encontra o menor círculo que contém um conjunto de pontos em $\mathbb{R}^2$.
 - **Casos de Teste**: Testa o algoritmo com:
   - Pontos coincidentes
   - Pontos colineares
